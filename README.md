@@ -33,7 +33,7 @@ The RSA algorithm is based on the mathematical difficulty of factoring the produ
 The security of RSA relies on the difficulty of factoring large numbers; thus, choosing sufficiently large prime numbers for ( p ) and ( q ) is crucial for security.
 
 ## Program:
-```python
+```c
 
 #include <stdio.h>
 #include <string.h>
